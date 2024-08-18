@@ -1,0 +1,18 @@
+{
+  "name": "@tobiaslabs/eslint-config-javascript",
+  "version": "0.0.1",
+  "description": "ESLint configurations for projects using JavaScript.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobiaslabs/eslint-config-javascript.git"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/tobiaslabs/eslint-config-javascript/issues"
+  },
+  "homepage": "https://github.com/tobiaslabs/eslint-config-javascript",
+  "peerDependencies": {
+    "eslint": "^9.9.0"
+  }
+}
