@@ -1,6 +1,6 @@
 {
   "name": "@tobiaslabs/eslint-config-javascript",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "type": "module",
   "description": "ESLint configurations for projects using JavaScript.",
   "main": "index.js",
