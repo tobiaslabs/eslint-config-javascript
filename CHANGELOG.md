@@ -18,6 +18,12 @@ Change categories are:
 
 ## Changes
 
-## [0.0.0](https://github.com/tobiaslabs/eslint-config-javascript/tree/v0.0.0) - 2024-08-18
+
+## [1.0.0](https://github.com/tobiaslabs/eslint-config-javascript/compare/v0.0.0...v1.0.1) - 2024-08-26
+### Changed
+- Updated to work with ESLint 9, using `@stylistic/eslint-plugin-js` to provide style-guide enforcement.
+
+
+## [0.0.1](https://github.com/tobiaslabs/eslint-config-javascript/tree/v0.0.1) - 2024-08-18
 ### Added
 - Created the base project from lessons learned over the years.
